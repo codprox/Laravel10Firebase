@@ -51,8 +51,8 @@ FireStore($params);
  
 ```
 ## Pictures
-![Page project](assets/0.jpg)
-![Page project](assets/a.jpg)
+![Error installation default package](assets/0.JPG)
+![Our solution](assets/a.JPG)
 
-![With results](assets/b.jpg)
-![With results](assets/c.jpg)
+![Principal Function](assets/b.JPG)
+![Content of namespace](assets/c.JPG)
